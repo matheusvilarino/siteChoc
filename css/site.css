@@ -1,0 +1,128 @@
+a{
+  text-decoration: none;
+}
+.container{
+  font-family: sans-serif;
+}
+.navegacao-site{
+  z-index: 1;
+  width: 100%;
+  position: fixed;
+  background-color: rgba(121, 85, 72, 0.9);
+  padding: 20px;
+}
+.botoes-navegacao{
+  width: 670px;
+  margin: 0 auto;
+}
+.botao-navegacao{
+  padding: 20px;
+  color: white;
+  text-transform: uppercase;
+}
+.botao-navegacao:hover, .botao-navegacao:focus{
+  background-color: #3e2723;
+}
+.secao, .secao1, .secao2, .secao3{
+  height: 700px;
+}
+.secoes1{
+  width: 970px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+.secoes2{
+  width: 970px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+.secoes3{
+  width: 970px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+.secoes4{
+  width: 970px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+.secoes5{
+  width: 970px;
+  height: 720px;
+  margin: 0 auto;
+  position: relative;
+}
+.logo{
+  margin: 0 auto;
+  width: 150px;
+  margin-top: 150px;
+  border: 4px solid white;
+  border-radius: 10px;
+  padding: 6px;
+}
+.logo h1{
+  font-size: 200px;
+  color: white;
+  margin-bottom: -15px;
+  margin-left: -8px;
+  margin-top: -23px;
+}
+.logo span{
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  margin-left: 1px;
+  border-top: 4px solid white;
+}
+.secao{
+  padding-top: 55px;
+  background-image: url(../img/banner1.png);
+  background-position: top;
+}
+.secao1{
+  background-color: #a1887f;
+}
+.secao2{
+  background-color: #8d6e63;
+}
+.secao3{
+  background-color: #795548;
+}
+.secao4{
+  background-color: #6d4c41;
+}
+.secao5{
+  background-color: #5d4037;
+}
+.btn-scroll{
+  position: absolute;
+  bottom: 90px;
+  left: 450px;
+}
+.btn-comece{
+  position: absolute;
+  bottom: 400px;
+}
+.btn-comece a{
+  margin-left: 362.5px;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 60px;
+  color: white;
+  text-transform: uppercase;
+  font-size: 1.094em;
+}
+.titulos{
+  font-size: 2em;
+  text-transform: uppercase;
+  text-align: center;
+  color: white;
+  border-bottom: 2px solid white;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 70px;
+}
